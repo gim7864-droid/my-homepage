@@ -8,7 +8,6 @@
 ## 파일 구성
 
 - `index.html` — 소개 페이지 (GitHub Pages 기본 파일)
-- `about.html` — 동일한 소개 페이지
 - `logo.jpg` — 센터 로고
 
 ## 미리보기 (GitHub Pages)
